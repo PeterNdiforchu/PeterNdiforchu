@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeterNdiforchu
+- 👋 Hi, I’m a Data Analytst at RBC 
 - 👀 I’m interested in Data Analytics and AI/ML
 - 🌱 I’m currently learning Data Engineering with Spark, Airflow and Great Expectation for Data Quality
 - 💞️ I’m looking to collaborate on my Spotify Music Project
